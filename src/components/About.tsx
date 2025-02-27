@@ -82,7 +82,7 @@ const About: React.FC = () => {
 
             <motion.p className="text-gray-300 mb-6" variants={itemVariants}>
               I'm a passionate developer with expertise in creating immersive
-              digital experiences. My journey in tech began 5 years ago, and
+              digital experiences. My journey in tech began 3 years ago, and
               I've been pushing the boundaries of web development ever since.
             </motion.p>
 
